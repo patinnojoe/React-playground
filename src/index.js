@@ -11,7 +11,7 @@ const root = createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-      <BusinessPage />
+      <StaticPage />
   </React.StrictMode>
 );
 // const footer = createRoot(document.querySelector('#footer'));
